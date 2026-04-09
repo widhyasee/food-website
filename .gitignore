@@ -31,6 +31,15 @@ cache/
 *.sqlite
 *.sqlite3
 *.db
+*.sql
+*.sql.gz
+*.sql.bz2
+*.sql.tar
+*.sql.tar.gz
+*.sql.tar.bz2
+*.sql.tar.gz.bz2
+*.sql.tar.bz2.gz
+*.sql.tar.gz.bz2.gz
 
 # User uploads / runtime generated files
 uploaded_img/tmp/
