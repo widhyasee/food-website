@@ -1,0 +1,12 @@
+{
+  "name": "food-website",
+  "version": "1.0.0",
+  "description": "Project ini adalah website PHP (tanpa framework) dan membutuhkan database MySQL/MariaDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "php -S localhost:8000"
+  },
+  "author": "",
+  "license": "ISC"
+}
